@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>El Moustapha</title>
+    <link>http://www.tapha19.github.io/</link>
+    <description>Recent content on El Moustapha</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.tapha19.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.tapha19.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tapha19.github.io/about/</guid>
+      <description>I am El Moustatpha, a passionate student of Statistics and Data Engineering. I have been studying at Ecole Superieure Polytechniques de Nouakchott since 2021 . Having completed a preparatory class at Institut Preparatoire aux Grandes Ecoles d’Ingenieurs Nouakchott, I have gained a strong foundation to handle complex analytical challenges.
+My academic journey is supported by significant professional experience.
+In terms of technical skills, I have a strong understanding of statistical concepts and methods.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.tapha19.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tapha19.github.io/contact/</guid>
+      <description>21019@esp.mr moustaphasidiabdallah@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.tapha19.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.tapha19.github.io/projects/</guid>
+      <description>Nov. 2022 - May 2023 Industrial Project in EnterpriseLink to headingMauritanian Institute of Oceanographic Research and Fisheries (IMROP)Link to headingThe objective was to study the relationships between different variables and work on a model to predict the total catches of artisanal and coastal fishing.
+March 2023 Data ChallengeLink to headingData TuringLink to headingThe objective was to build a predictive model capable of predicting the probability of a student passing the Mauritanian Baccalaureate examination.</description>
+    </item>
+    
+  </channel>
+</rss>
